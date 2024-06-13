@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0c968d80-01bc-4d46-8b8f-f811a23d8ebd": {
+      "ProjectGuid": "0c968d80-01bc-4d46-8b8f-f811a23d8ebd",
+      "DisplayName": "WakeUp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
